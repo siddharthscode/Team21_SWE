@@ -1,3 +1,6 @@
 [submodule "Indentation"]
 	path = Indentation
 	url = https://github.com/siddharthscode/koha_plugin.git
+[submodule "Quotation"]
+	path = Quotation
+	url = https://github.com/siddharthscode/koha_plugin_quotation.git
