@@ -4,3 +4,6 @@
 [submodule "Quotation"]
 	path = Quotation
 	url = https://github.com/siddharthscode/koha_plugin_quotation.git
+[submodule "Status"]
+	path = Status
+	url = https://github.com/siddharthscode/koha_plugin_status.git
