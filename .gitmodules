@@ -7,3 +7,6 @@
 [submodule "Status"]
 	path = Status
 	url = https://github.com/siddharthscode/koha_plugin_status.git
+[submodule "ComparativeSheetGenerator"]
+	path = ComparativeSheetGenerator
+	url = https://github.com/rewantraj/ComparativeSheetGenerator.git
